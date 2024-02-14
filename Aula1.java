@@ -14,7 +14,7 @@ public class Aula1 {
        b = input.nextInt();
 
        soma = a + b;
-
+        System.out.println("Hello, world");
         System.out.println("A soma dos dois numeros é: "+soma);
 
     }
